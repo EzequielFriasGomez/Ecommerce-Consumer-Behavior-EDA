@@ -1,3 +1,5 @@
+[🇪🇸 Leer versión en Español](README_ES.md)
+
 # Sales & Seasonality Analysis: Electronics Sector
 
 **Project Overview** This repository contains the data cleaning process and exploratory data analysis (EDA) for a simulated e-commerce dataset. The main goal was to take raw data, find actual purchasing patterns, and use them to optimize the company's ad spend.
